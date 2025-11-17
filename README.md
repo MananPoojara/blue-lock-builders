@@ -9,10 +9,6 @@ Skill Discovery Engine — a lightweight system to deliver mini build challenges
 Who this is for
 Builders and learners who want to discover and sharpen their core strengths through doing, reviewing, and iterating.
 
-Quick start (conceptual)
-- Tools you need: Git, a code editor, a GitHub account.
-- Workflow: branch from `develop`, open a PR linked to an issue, request reviews, merge to `develop`.
-
 How to contribute
 See CONTRIBUTING.md (to be added). Short: follow branch naming, link PRs to issues, include acceptance criteria in PR.
 
